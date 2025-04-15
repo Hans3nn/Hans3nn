@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hej, jeg er Hans3nn 👋
 
-<!--
-**Hans3nn/Hans3nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Velkommen til min GitHub-profil!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Erfaringer
+
+💻 **Kodning:** Bash, MySQL, Docker  
+🐧 **Linux distros:** Ubuntu, Arch  
+🛜 **Netværk:** Cisco
+
+---
+
+## Projekter
+
+- N/A
+
+---
+
+## Kontakt
+
+Find mig også her:  
+[LinkedIn]((https://www.linkedin.com/in/perhansenn/))  
+[Email](mailto:perhansen2002@gmail.com)
