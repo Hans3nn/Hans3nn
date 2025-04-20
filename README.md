@@ -21,5 +21,5 @@ Velkommen til min GitHub-profil!
 ## Kontakt
 
 Find mig også her:  
-[LinkedIn]((https://www.linkedin.com/in/perhansenn/))  
+[LinkedIn](https://www.linkedin.com/in/perhansenn/)  
 [Email](mailto:perhansen2002@gmail.com)
