@@ -7,7 +7,7 @@ Velkommen til min GitHub-profil!
 ## Erfaringer
 
 💻 **Kodning:** Bash, MySQL, Docker  
-🐧 **Linux distros:** Ubuntu, Arch  
+🐧 **Linux distros:** Ubuntu, Xubuntu, Arch  
 🛜 **Netværk:** Cisco
 
 ---
