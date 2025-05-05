@@ -8,7 +8,7 @@ Velkommen til min GitHub-profil!
 
 💻 **Kodning:** Bash, MySQL, Docker  
 🐧 **Linux distros:** Ubuntu, Xubuntu, Arch  
-🛜 **Netværk:** Cisco
+🌐 **Netværk:** Cisco
 
 ---
 
